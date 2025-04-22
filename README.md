@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Amirabbas Ghara Mohammadi, a Front-End Developer focused on React, Next.js, TypeScript, and MUI. ✨🚀 Currently freelancing, aspiring to learn backend development with Node.js & NestJS.<br>
+I'm Amirabbas Ghareh Mohammadi, a Front-End Developer focused on React, Next.js, TypeScript, and MUI. ✨🚀 Currently freelancing, aspiring to learn backend development with Node.js & NestJS.<br>
 
 
 ## 🌐 Socials:
